@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "brande.ae",
+  "Id": "eb65be7d-b3fc-4208-b3dd-216a96bc7c0d"
+}

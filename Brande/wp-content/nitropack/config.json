@@ -1,0 +1,19 @@
+{
+    "www.brande.ae": {
+        "siteId": "byuWLXabcMqRIwjeHOiTGLIIJkLFTZMg",
+        "siteSecret": "u0RBnWENnsvFqIffYF1VfTzkTb4I6aFAUOgFcaGeHgq5BPpi5xmLkT5fLKbjkZUA",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "476561f2a963bdd310d2e44baa144e32",
+        "home_url": "https:\/\/www.brande.ae",
+        "admin_url": "https:\/\/www.brande.ae\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.7"
+    }
+}
